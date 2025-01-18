@@ -43,7 +43,9 @@ dados_marketing = {
 
 1. Calcule a **taxa de conversão** para cada canal usando a seguinte fórmula:  
 
-![image.png](attachment:image.png)
+```
+Taxa de Conversão (%) = (Conversões/Visitas) x 100
+```
 
    - As taxas devem ser exibidas com **duas casas decimais**.  
 
